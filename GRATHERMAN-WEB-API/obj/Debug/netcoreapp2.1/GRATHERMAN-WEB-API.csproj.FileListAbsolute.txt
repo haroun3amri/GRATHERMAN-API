@@ -1,0 +1,13 @@
+C:\Users\AmriHaroun\source\repos\GRATHERMAN-WEB-API\GRATHERMAN-WEB-API\bin\Debug\netcoreapp2.1\GRATHERMAN-WEB-API.deps.json
+C:\Users\AmriHaroun\source\repos\GRATHERMAN-WEB-API\GRATHERMAN-WEB-API\bin\Debug\netcoreapp2.1\GRATHERMAN-WEB-API.runtimeconfig.json
+C:\Users\AmriHaroun\source\repos\GRATHERMAN-WEB-API\GRATHERMAN-WEB-API\bin\Debug\netcoreapp2.1\GRATHERMAN-WEB-API.runtimeconfig.dev.json
+C:\Users\AmriHaroun\source\repos\GRATHERMAN-WEB-API\GRATHERMAN-WEB-API\bin\Debug\netcoreapp2.1\GRATHERMAN-WEB-API.dll
+C:\Users\AmriHaroun\source\repos\GRATHERMAN-WEB-API\GRATHERMAN-WEB-API\bin\Debug\netcoreapp2.1\GRATHERMAN-WEB-API.pdb
+C:\Users\AmriHaroun\source\repos\GRATHERMAN-WEB-API\GRATHERMAN-WEB-API\obj\Debug\netcoreapp2.1\GRATHERMAN-WEB-API.csproj.CoreCompileInputs.cache
+C:\Users\AmriHaroun\source\repos\GRATHERMAN-WEB-API\GRATHERMAN-WEB-API\obj\Debug\netcoreapp2.1\GRATHERMAN-WEB-API.RazorAssemblyInfo.cache
+C:\Users\AmriHaroun\source\repos\GRATHERMAN-WEB-API\GRATHERMAN-WEB-API\obj\Debug\netcoreapp2.1\GRATHERMAN-WEB-API.RazorAssemblyInfo.cs
+C:\Users\AmriHaroun\source\repos\GRATHERMAN-WEB-API\GRATHERMAN-WEB-API\obj\Debug\netcoreapp2.1\GRATHERMAN-WEB-API.AssemblyInfoInputs.cache
+C:\Users\AmriHaroun\source\repos\GRATHERMAN-WEB-API\GRATHERMAN-WEB-API\obj\Debug\netcoreapp2.1\GRATHERMAN-WEB-API.AssemblyInfo.cs
+C:\Users\AmriHaroun\source\repos\GRATHERMAN-WEB-API\GRATHERMAN-WEB-API\obj\Debug\netcoreapp2.1\GRATHERMAN-WEB-API.RazorTargetAssemblyInfo.cache
+C:\Users\AmriHaroun\source\repos\GRATHERMAN-WEB-API\GRATHERMAN-WEB-API\obj\Debug\netcoreapp2.1\GRATHERMAN-WEB-API.dll
+C:\Users\AmriHaroun\source\repos\GRATHERMAN-WEB-API\GRATHERMAN-WEB-API\obj\Debug\netcoreapp2.1\GRATHERMAN-WEB-API.pdb
